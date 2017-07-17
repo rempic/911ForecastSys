@@ -14,5 +14,10 @@ The web app was developed in Flask. The time-series model was developed in pytho
 
 <img src="img_2.png" alt="">
 
-## Data Module [see jupiter](emsmodule_data_exploration_2.ipynb)
-This class implements an abstraction layer on the DB. 
+## [Data layer] (emsmodule_data_exploration_2.ipynb)
+This class was developped to create an abstraction layer on top of the DB.
+
+## [Maps layer](emsmodule_maps.ipynb.ipynb)
+This class was developped to determine the spatial distribution of the 911 calls and the Geo forecast probability distribution
+
+
