@@ -27,6 +27,8 @@ The web app was developped to create a functional first version of the 911 forec
 
 
 ## [news]
+A GEO-Forecasting model is under implementation
 
+<img src="img_3.png" alt="">
 
 
