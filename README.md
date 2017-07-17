@@ -9,7 +9,7 @@ The time-series model was developed in python by using sklearn toolkit and inclu
 ## [Data layer](emsmodule_data_exploration_2.ipynb)
 This class develops the DB abstraction layer
 
-## [Maps layer](emsmodule_maps.ipynb.ipynb)
+## [Maps layer](emsmodule_maps.ipynb)
 This class was developped to determine the spatial distribution of  911 calls and the Geo forecast probability distribution (new feature coming soon)
 
 ## [Model-training layer](emsmodule_forecast_training.ipynb)
@@ -18,7 +18,7 @@ This module contain the code that implements and trains the time-series forecast
 ## [Model-forecast layer](emsmodule_forecast_future.ipynb)
 This module contain the code that implements the hour and day forecasting
 
-## [911forecast web app](www.911forecast.site)
+## ![911forecast web app](www.911forecast.site)
 The web app was developped to create a  first functional version of the 911 forecast system
 
 <img src="img_1.png" alt="">
