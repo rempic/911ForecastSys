@@ -14,3 +14,5 @@ The web app was developed in Flask. The time-series model was developed in pytho
 
 <img src="img_2.png" alt="">
 
+## Data Module [see jupiter](emsmodule_data_exploration_2.ipynb)
+This class implements an abstraction layer on the DB. 
