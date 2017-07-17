@@ -14,10 +14,24 @@ The web app was developed in Flask. The time-series model was developed in pytho
 
 <img src="img_2.png" alt="">
 
-## [Data layer] (emsmodule_data_exploration_2.ipynb)
+## [Data layer](emsmodule_data_exploration_2.ipynb)
 This class was developped to create an abstraction layer on top of the DB.
 
 ## [Maps layer](emsmodule_maps.ipynb.ipynb)
 This class was developped to determine the spatial distribution of the 911 calls and the Geo forecast probability distribution
+
+## [Model-training layer](emsmodule_forecast_training.ipynb)
+This module was used to train the model (GradientBoosting and Logistic Regression). A new class for this layer is under implementation
+
+## [Model-forecast layer](emsmodule_forecast_future.ipynb)
+This module were used to determine the hour and day prediction from the above trained module
+
+## [911forecast web app](www.911forecast.site)
+The web app was developped to create a functional first version of the 911 forecast system
+
+
+
+## [news]
+
 
 
