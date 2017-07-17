@@ -6,14 +6,6 @@ The web app was developed in Flask. The time-series model was developed in pytho
 # System architecture
 <img src="sys_architecture.png" alt="">
 
-
-
-<img src="img_1.png" alt="">
-
-
-
-<img src="img_2.png" alt="">
-
 ## [Data layer](emsmodule_data_exploration_2.ipynb)
 This class was developped to create an abstraction layer on top of the DB.
 
@@ -29,6 +21,9 @@ This module were used to determine the hour and day prediction from the above tr
 ## [911forecast web app](www.911forecast.site)
 The web app was developped to create a functional first version of the 911 forecast system
 
+<img src="img_1.png" alt="">
+
+<img src="img_2.png" alt="">
 
 
 ## [news]
