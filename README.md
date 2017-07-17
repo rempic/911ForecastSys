@@ -1,5 +1,5 @@
 # 911 calls Forecast System (<a href="http://www.911forecast.site">web app</a>)
-During my Insight Data Science project I developed an application to improve emergency response by forecasting 911 calls (http://www.911forecast.site). In particular I focused on medical emergency and used a dataset of 911 calls streamed in real-time from Montogmery Country, PA (http://montcoalert.org/gettingdata/)).
+During my Insight Data Science project I developed an application to improve emergency response by forecasting 911 calls <a href="http://www.911forecast.site">www.911forecast.site</a>. In particular I focused on medical emergency and used a dataset of 911 calls streamed in real-time from Montogmery Country, PA (http://montcoalert.org/gettingdata/) <a href="http://montcoalert.org/gettingdata/">link</a>).
 
 The time-series model was developed in python by using sklearn toolkit and included. A new GEO-Forecasting machine learning model is under implementation (see news below)
 
